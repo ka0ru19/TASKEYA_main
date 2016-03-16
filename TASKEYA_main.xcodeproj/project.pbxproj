@@ -9,11 +9,28 @@
 /* Begin PBXBuildFile section */
 		634C90A81C954E99001E5BFD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 634C90A71C954E99001E5BFD /* AppDelegate.swift */; };
 		634C90AA1C954E99001E5BFD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 634C90A91C954E99001E5BFD /* ViewController.swift */; };
-		634C90AD1C954E99001E5BFD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 634C90AB1C954E99001E5BFD /* Main.storyboard */; };
 		634C90AF1C954E9A001E5BFD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 634C90AE1C954E9A001E5BFD /* Assets.xcassets */; };
 		634C90B21C954E9A001E5BFD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 634C90B01C954E9A001E5BFD /* LaunchScreen.storyboard */; };
 		634C90BD1C954E9A001E5BFD /* TASKEYA_mainTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 634C90BC1C954E9A001E5BFD /* TASKEYA_mainTests.swift */; };
 		634C90C81C954E9A001E5BFD /* TASKEYA_mainUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 634C90C71C954E9A001E5BFD /* TASKEYA_mainUITests.swift */; };
+		634C90D61C954EFF001E5BFD /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 634C90D51C954EFF001E5BFD /* MenuController.swift */; };
+		634C90DC1C955263001E5BFD /* wood.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 634C90DB1C955263001E5BFD /* wood.jpg */; };
+		634C90DE1C9638FA001E5BFD /* RequestListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 634C90DD1C9638FA001E5BFD /* RequestListViewController.swift */; };
+		634C90E01C963AC2001E5BFD /* ColorManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 634C90DF1C963AC2001E5BFD /* ColorManager.swift */; };
+		634C90E81C963B6A001E5BFD /* c01.png in Resources */ = {isa = PBXBuildFile; fileRef = 634C90E11C963B6A001E5BFD /* c01.png */; };
+		634C90E91C963B6A001E5BFD /* c02.png in Resources */ = {isa = PBXBuildFile; fileRef = 634C90E21C963B6A001E5BFD /* c02.png */; };
+		634C90EA1C963B6A001E5BFD /* c03.png in Resources */ = {isa = PBXBuildFile; fileRef = 634C90E31C963B6A001E5BFD /* c03.png */; };
+		634C90EB1C963B6A001E5BFD /* c04.png in Resources */ = {isa = PBXBuildFile; fileRef = 634C90E41C963B6A001E5BFD /* c04.png */; };
+		634C90EC1C963B6A001E5BFD /* c05.png in Resources */ = {isa = PBXBuildFile; fileRef = 634C90E51C963B6A001E5BFD /* c05.png */; };
+		634C90ED1C963B6A001E5BFD /* c06.png in Resources */ = {isa = PBXBuildFile; fileRef = 634C90E61C963B6A001E5BFD /* c06.png */; };
+		634C90EE1C963B6A001E5BFD /* c07.png in Resources */ = {isa = PBXBuildFile; fileRef = 634C90E71C963B6A001E5BFD /* c07.png */; };
+		634C90F01C963D4F001E5BFD /* nextMark.png in Resources */ = {isa = PBXBuildFile; fileRef = 634C90EF1C963D4F001E5BFD /* nextMark.png */; };
+		634C90F51C96F802001E5BFD /* app .png in Resources */ = {isa = PBXBuildFile; fileRef = 634C90F41C96F802001E5BFD /* app .png */; };
+		634C90F71C96FBCA001E5BFD /* PostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 634C90F61C96FBC9001E5BFD /* PostViewController.swift */; };
+		634C90F91C96FC00001E5BFD /* SelectRangeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 634C90F81C96FC00001E5BFD /* SelectRangeViewController.swift */; };
+		634C90FC1C970970001E5BFD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 634C90FA1C970970001E5BFD /* Main.storyboard */; };
+		638146E81C9717A800B383FA /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 638146E71C9717A800B383FA /* DetailViewController.swift */; };
+		638146EA1C98FD8000B383FA /* MyPastPostListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 638146E91C98FD8000B383FA /* MyPastPostListViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,7 +54,6 @@
 		634C90A41C954E99001E5BFD /* TASKEYA_main.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TASKEYA_main.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		634C90A71C954E99001E5BFD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		634C90A91C954E99001E5BFD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		634C90AC1C954E99001E5BFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		634C90AE1C954E9A001E5BFD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		634C90B11C954E9A001E5BFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		634C90B31C954E9A001E5BFD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -47,6 +63,24 @@
 		634C90C31C954E9A001E5BFD /* TASKEYA_mainUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TASKEYA_mainUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		634C90C71C954E9A001E5BFD /* TASKEYA_mainUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TASKEYA_mainUITests.swift; sourceTree = "<group>"; };
 		634C90C91C954E9A001E5BFD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		634C90D51C954EFF001E5BFD /* MenuController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuController.swift; sourceTree = "<group>"; };
+		634C90DB1C955263001E5BFD /* wood.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wood.jpg; sourceTree = "<group>"; };
+		634C90DD1C9638FA001E5BFD /* RequestListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RequestListViewController.swift; sourceTree = "<group>"; };
+		634C90DF1C963AC2001E5BFD /* ColorManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorManager.swift; sourceTree = "<group>"; };
+		634C90E11C963B6A001E5BFD /* c01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = c01.png; sourceTree = "<group>"; };
+		634C90E21C963B6A001E5BFD /* c02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = c02.png; sourceTree = "<group>"; };
+		634C90E31C963B6A001E5BFD /* c03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = c03.png; sourceTree = "<group>"; };
+		634C90E41C963B6A001E5BFD /* c04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = c04.png; sourceTree = "<group>"; };
+		634C90E51C963B6A001E5BFD /* c05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = c05.png; sourceTree = "<group>"; };
+		634C90E61C963B6A001E5BFD /* c06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = c06.png; sourceTree = "<group>"; };
+		634C90E71C963B6A001E5BFD /* c07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = c07.png; sourceTree = "<group>"; };
+		634C90EF1C963D4F001E5BFD /* nextMark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nextMark.png; sourceTree = "<group>"; };
+		634C90F41C96F802001E5BFD /* app .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "app .png"; sourceTree = "<group>"; };
+		634C90F61C96FBC9001E5BFD /* PostViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostViewController.swift; sourceTree = "<group>"; };
+		634C90F81C96FC00001E5BFD /* SelectRangeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SelectRangeViewController.swift; sourceTree = "<group>"; };
+		634C90FB1C970970001E5BFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		638146E71C9717A800B383FA /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		638146E91C98FD8000B383FA /* MyPastPostListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyPastPostListViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,11 +131,19 @@
 		634C90A61C954E99001E5BFD /* TASKEYA_main */ = {
 			isa = PBXGroup;
 			children = (
+				634C90F31C968E12001E5BFD /* image */,
 				634C90A71C954E99001E5BFD /* AppDelegate.swift */,
 				634C90A91C954E99001E5BFD /* ViewController.swift */,
-				634C90AB1C954E99001E5BFD /* Main.storyboard */,
+				634C90F61C96FBC9001E5BFD /* PostViewController.swift */,
+				634C90F81C96FC00001E5BFD /* SelectRangeViewController.swift */,
+				634C90DD1C9638FA001E5BFD /* RequestListViewController.swift */,
+				638146E91C98FD8000B383FA /* MyPastPostListViewController.swift */,
+				638146E71C9717A800B383FA /* DetailViewController.swift */,
+				634C90D51C954EFF001E5BFD /* MenuController.swift */,
 				634C90AE1C954E9A001E5BFD /* Assets.xcassets */,
+				634C90FA1C970970001E5BFD /* Main.storyboard */,
 				634C90B01C954E9A001E5BFD /* LaunchScreen.storyboard */,
+				634C90DF1C963AC2001E5BFD /* ColorManager.swift */,
 				634C90B31C954E9A001E5BFD /* Info.plist */,
 			);
 			path = TASKEYA_main;
@@ -123,6 +165,23 @@
 				634C90C91C954E9A001E5BFD /* Info.plist */,
 			);
 			path = TASKEYA_mainUITests;
+			sourceTree = "<group>";
+		};
+		634C90F31C968E12001E5BFD /* image */ = {
+			isa = PBXGroup;
+			children = (
+				634C90F41C96F802001E5BFD /* app .png */,
+				634C90E11C963B6A001E5BFD /* c01.png */,
+				634C90E21C963B6A001E5BFD /* c02.png */,
+				634C90E31C963B6A001E5BFD /* c03.png */,
+				634C90E41C963B6A001E5BFD /* c04.png */,
+				634C90E51C963B6A001E5BFD /* c05.png */,
+				634C90E61C963B6A001E5BFD /* c06.png */,
+				634C90E71C963B6A001E5BFD /* c07.png */,
+				634C90EF1C963D4F001E5BFD /* nextMark.png */,
+				634C90DB1C955263001E5BFD /* wood.jpg */,
+			);
+			name = image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,9 +291,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				634C90EE1C963B6A001E5BFD /* c07.png in Resources */,
+				634C90F01C963D4F001E5BFD /* nextMark.png in Resources */,
+				634C90EB1C963B6A001E5BFD /* c04.png in Resources */,
+				634C90EA1C963B6A001E5BFD /* c03.png in Resources */,
+				634C90ED1C963B6A001E5BFD /* c06.png in Resources */,
+				634C90E81C963B6A001E5BFD /* c01.png in Resources */,
+				634C90E91C963B6A001E5BFD /* c02.png in Resources */,
+				634C90FC1C970970001E5BFD /* Main.storyboard in Resources */,
 				634C90B21C954E9A001E5BFD /* LaunchScreen.storyboard in Resources */,
+				634C90DC1C955263001E5BFD /* wood.jpg in Resources */,
+				634C90EC1C963B6A001E5BFD /* c05.png in Resources */,
+				634C90F51C96F802001E5BFD /* app .png in Resources */,
 				634C90AF1C954E9A001E5BFD /* Assets.xcassets in Resources */,
-				634C90AD1C954E99001E5BFD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,8 +328,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				634C90F91C96FC00001E5BFD /* SelectRangeViewController.swift in Sources */,
+				634C90F71C96FBCA001E5BFD /* PostViewController.swift in Sources */,
 				634C90AA1C954E99001E5BFD /* ViewController.swift in Sources */,
+				634C90E01C963AC2001E5BFD /* ColorManager.swift in Sources */,
+				634C90D61C954EFF001E5BFD /* MenuController.swift in Sources */,
+				634C90DE1C9638FA001E5BFD /* RequestListViewController.swift in Sources */,
+				638146EA1C98FD8000B383FA /* MyPastPostListViewController.swift in Sources */,
 				634C90A81C954E99001E5BFD /* AppDelegate.swift in Sources */,
+				638146E81C9717A800B383FA /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -296,20 +372,20 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		634C90AB1C954E99001E5BFD /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				634C90AC1C954E99001E5BFD /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		634C90B01C954E9A001E5BFD /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				634C90B11C954E9A001E5BFD /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		634C90FA1C970970001E5BFD /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				634C90FB1C970970001E5BFD /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -401,6 +477,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = TASKEYA_main/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.litech.TASKEYA-main";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -412,6 +489,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = TASKEYA_main/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.litech.TASKEYA-main";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -485,6 +563,7 @@
 				634C90CE1C954E9A001E5BFD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		634C90CF1C954E9A001E5BFD /* Build configuration list for PBXNativeTarget "TASKEYA_mainTests" */ = {
 			isa = XCConfigurationList;
@@ -493,6 +572,7 @@
 				634C90D11C954E9A001E5BFD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		634C90D21C954E9A001E5BFD /* Build configuration list for PBXNativeTarget "TASKEYA_mainUITests" */ = {
 			isa = XCConfigurationList;
@@ -501,6 +581,7 @@
 				634C90D41C954E9A001E5BFD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
